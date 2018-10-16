@@ -1,5 +1,5 @@
 var _WM_APP_PROPERTIES = {
-  "activeTheme" : "mobile",
+  "activeTheme" : "pink-shaded",
   "defaultLanguage" : "en",
   "displayName" : "WaveSwipe343",
   "homePage" : "Main",
